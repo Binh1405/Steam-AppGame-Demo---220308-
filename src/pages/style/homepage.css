@@ -1,0 +1,7 @@
+.homepage {
+  display: flex;
+  min-width: 940px;
+  width: 100%;
+  background-color: #0e141b;
+  justify-content: space-around;
+}

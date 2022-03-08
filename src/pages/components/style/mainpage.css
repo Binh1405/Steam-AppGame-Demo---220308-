@@ -1,0 +1,53 @@
+.mainpage {
+  display: inline-block;
+  width: 90%;
+}
+.mainpage h3 {
+  text-align: center;
+  color: #b8bcbf;
+}
+.featuredGames {
+  display: flex;
+  min-width: 600px;
+  width: 100%;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.card {
+  display: block;
+  margin: 10px;
+  padding: 5px;
+  max-width: 300px;
+  width: 100%;
+}
+
+.card .card-body {
+  width: 300px;
+}
+.card-body a {
+  text-decoration: none;
+  color: #dcdedf;
+  font-size: 1.2rem;
+  font-weight: bolder;
+}
+.card-text {
+  color: #a7bacc;
+}
+.categoryGames .card.card-title {
+  color: white;
+  font-size: 1.1rem;
+}
+.categoryGames .card-title.h5 {
+  color: white;
+  font-size: 1.3rem;
+}
+button.btn.btn-primary {
+  background-color: rgb(64, 235, 235);
+  padding: 0.5rem;
+  border-radius: 10px;
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: rgb(61, 56, 56);
+  border: none;
+  cursor: pointer;
+}

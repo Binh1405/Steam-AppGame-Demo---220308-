@@ -1,0 +1,24 @@
+.detailProduct {
+  background-color: #1f2126;
+}
+.detailProduct .card {
+  background-color: #1f2126;
+  padding: 1rem;
+  margin: 0 10rem;
+  min-height: 85vh;
+  height: 100%;
+}
+.detailProduct .card-title {
+  color: #fff;
+  padding: 1rem 1rem;
+  font-size: 1.3rem;
+  font-weight: bolder;
+  min-width: 500px;
+  width: ;
+}
+.detailProduct .card-text {
+  padding: 0 0.5rem;
+  min-width: 400px;
+  width: 100%;
+  margin: 0 auto;
+}
